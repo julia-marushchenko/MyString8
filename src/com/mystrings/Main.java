@@ -1,6 +1,7 @@
 /**
  *  Java program to demonstrate String class.
  */
+
 package com.mystrings;
 
 /**
