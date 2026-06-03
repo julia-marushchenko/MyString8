@@ -28,7 +28,7 @@ public class Main {
         System.out.println(index); // Output: 2
 
         // Finding index of next character 'a'.
-        int index1 = str.indexOf("a", 3); // Output:
+        int index1 = str.indexOf("a", 3);
 
         // Printing value of index1.
         System.out.println(index1); // Output: 5
