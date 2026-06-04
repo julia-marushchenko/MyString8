@@ -15,7 +15,7 @@ public class Main {
         // Creating an initialized string instance.
         String str = "I am a string";
 
-        //  Checking ifstring has character 't'.
+        //  Checking if string has character 't'.
         boolean hasT = str.contains("t");
 
         // Printing boolean value of hasT.
